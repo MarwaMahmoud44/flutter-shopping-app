@@ -44,8 +44,8 @@ The Shopping App includes the following main features:
 flutter pub get
 
 screenshoots:
-![Home Screen](assets/screenshots/welcome.jpg)
-![Login Screen](assets/screenshots/login.jpg)
-![signuo Screen](assets/screenshots/signup.jpg)
-![productScreen](assets/screenshots/product.jpg)
-![product Screen](assets/screenshots/offer.jpg)
+![Home Screen](assets/screenshots/welcome.jpeg)
+![Login Screen](assets/screenshots/login.jpeg)
+![signuo Screen](assets/screenshots/signup.jpeg)
+![productScreen](assets/screenshots/product.jpeg)
+![product Screen](assets/screenshots/offer.jpeg)
